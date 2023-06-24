@@ -2,6 +2,7 @@
 const nextConfig = {
     output: {
         export: true,
+        output: 'export',
         exportPathMap: () => ({})
       }
 }
